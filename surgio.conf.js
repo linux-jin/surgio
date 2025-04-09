@@ -147,8 +147,8 @@ module.exports = {
   },
   gateway: {
     auth: true,
-    accessToken: '修改我，用于登录认证',
-    viewerToken: '修改我，推荐使用更长并且随机的字符串',
+    accessToken: 'Surgio3321',
+    viewerToken: 'Surgio443321',
     useCacheOnError: false,
   },
   // 非常有限的报错信息收集
